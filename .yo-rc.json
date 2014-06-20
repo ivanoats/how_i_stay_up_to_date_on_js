@@ -2,6 +2,9 @@
   "generator-reveal": {
     "presentationTitle": "How I Stay Up to Date on JavaScript",
     "packageVersion": "0.0.0",
-    "useSass": true
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "ivanoats",
+    "githubRepository": "how_i_stay_up_to_date_on_js"
   }
 }
