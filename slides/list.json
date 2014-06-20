@@ -1,9 +1,50 @@
 [
-    "index.md",
-    "newsletters.md",
-    "aggregators.md",
-    "twitter.md",
-    "events.md",
-    "podcasts.md",
-    "people.md"
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "images/up-to-date.jpg"
+        }
+    },
+    {
+        "filename": "newsletters.md",
+        "attr": {
+            "data-background": "images/newspaper.jpg"
+        }
+    },
+    {
+        "filename": "aggregators.md",
+        "attr": {
+            "data-background": "images/newspaper.jpg"
+        }
+    },
+    {
+        "filename": "twitter.md",
+        "attr": {
+            "data-background": "images/140chars.jpg"
+        }
+    },
+    {
+        "filename": "events.md",
+        "attr": {
+            "data-background": "images/LectureHall.jpg"
+        }
+    },
+    {
+        "filename": "podcasts.md",
+        "attr": {
+            "data-background": "images/Microphone.jpg"
+        }
+    },
+    {
+        "filename": "people.md",
+        "attr": {
+            "data-background": "images/Hackathon.jpg"
+        }
+    },
+    {
+        "filename": "credits.md",
+        "attr": {
+            "data-background": "images/Ivan-Smiling-Teaching.jpg"
+        }
+    }
 ]
