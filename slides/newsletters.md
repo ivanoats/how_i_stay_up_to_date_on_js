@@ -4,4 +4,5 @@
 - [HTML5 Weekly](http://html5weekly.com)
 - [Node Weekly](http://nodeweekly.com)
 - [Ember Weekly](http://emberweekly.com)
+- [ng-newsletter](http://www.ng-newsletter.com)
 
