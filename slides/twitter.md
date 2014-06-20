@@ -1,3 +1,1 @@
-# Twitter
-
-- [Who to Follow on Twitter](http://www.jstherightway.org/#whotofollow)
+[Who You Should Follow](http://www.jstherightway.org/#whotofollow)
